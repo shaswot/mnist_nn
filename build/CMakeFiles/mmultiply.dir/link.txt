@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/mmultiply.dir/src/mmultiply.cpp.o CMakeFiles/mmultiply.dir/include/mnist_loader.cc.o  -o mmultiply 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/repos/mmultiply/include/mnist_loader.cc
+mnist_loader.h
+/repos/mmultiply/include/mnist_loader.h
+fstream
+-
+assert.h
+-
+
+/repos/mmultiply/include/mnist_loader.h
+vector
+-
+string
+-
+
